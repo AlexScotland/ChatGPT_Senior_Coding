@@ -1,6 +1,7 @@
 # Library for ChatGPT Senior Interview
 
-
+## Question
+![image](https://i.imgur.com/C4v4hNb.png)
 ## Requirements:
  - Add a new book to the library
  - Search for a book by its title, author, or ISBN
