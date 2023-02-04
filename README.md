@@ -2,12 +2,13 @@
 
 ## Question
 ![image](https://i.imgur.com/C4v4hNb.png)
-## Requirements:
- - Add a new book to the library
- - Search for a book by its title, author, or ISBN
- - Check out a book to a borrower
- - Check in a book from a borrower
- - Generate reports about the books in the library (e.g. books checked out, books overdue, etc.)
+
+## Showcased technologies
+* OOP ✔️
+* Factory Pattern using Interfaces ✔️
+* Pytest ✔️
+* Broken down Mermaid Design ✔️
+* Works! ✔️
 
  ## Design Class Diagram
 ```mermaid
